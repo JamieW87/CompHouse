@@ -5,6 +5,8 @@ Created the JSON data and added some extra entries. Included an ID key to query 
 
 Created the structs to organise the json data.
 
+
+
 Decided to use gojsonq package to query the data. Makes querying json simple with SQL-like queries.
 https://github.com/thedevsaddam/gojsonq
 
