@@ -1,0 +1,96 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "title": "Uncharted 4",
+        "description": "For the first time ever in Uncharted history, drive vehicles during gameplay",
+        "by": "Sony",
+        "platform": ["PS4"],
+        "age_rating": "16",
+        "likes": 100,
+        "comments": [
+          {
+            "user": "bob",
+            "message": "Cracking game far too much cinematic",
+            "dateCreated": "2011-01-03",
+            "like": 6
+          },
+          {
+            "user": "testingPriest",
+            "message": "Not enough shooting for me,far too easy ",
+            "dateCreated": "2011-04-02",
+            "like": 5
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Call of Duty: Infinite warfare",
+        "description": "Shoot bad people with big guns",
+        "by": "EA",
+        "platform": ["PS4"],
+        "age_rating": "16",
+        "likes": 250,
+        "comments": [
+          {
+            "user": "Steve",
+            "message": "Liked the big guns",
+            "dateCreated": "2011-01-03",
+            "like": 4
+          },
+          {
+            "user": "testingPriest",
+            "message": "I hate games ",
+            "dateCreated": "2011-04-02",
+            "like": 10
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Tomb Raider",
+        "description": "Lara Croft takes on some monsters",
+        "by": "Lucasfilm",
+        "platform": ["PS4"],
+        "age_rating": "PG",
+        "likes": 60,
+        "comments": [
+          {
+            "user": "John",
+            "message": "Great game, LucasFilm didnt make it though",
+            "dateCreated": "2011-01-03",
+            "like": 6
+          },
+          {
+            "user": "Jerry",
+            "message": "Too much crawling around ",
+            "dateCreated": "2011-04-02",
+            "like": 22
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Final Fantasy 7",
+        "description": "Follow Cloud and friends on a journey across Midgar",
+        "by": "Sony",
+        "platform": ["XBOX"],
+        "age_rating": "16",
+        "likes": 500,
+        "comments": [
+          {
+            "user": "Lucy",
+            "message": "Cracking game",
+            "dateCreated": "2011-01-03",
+            "like": 15
+          },
+          {
+            "user": "testingPriest",
+            "message": "Best Ever!1!",
+            "dateCreated": "2011-04-02",
+            "like": 38
+          }
+        ]
+      }
+    ]
+  }
